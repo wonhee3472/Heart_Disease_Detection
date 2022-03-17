@@ -8,7 +8,8 @@ This project looks into using various Python-based machine learning and data sci
 
 ## Data
 The original data came from the Cleveland data from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
-It is also available on Kaggle: Click [HERE](https://www.kaggle.com/ronitf/heart-disease-uci) 
+
+It is also available on Kaggle: Click [HERE](https://www.kaggle.com/cherngs/heart-disease-cleveland-uci)
 
 ## Evaluation
   > If 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, the project will be pursued.
